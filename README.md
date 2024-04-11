@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-Kanban Task Manager (in progress): React + TypeScript + MST.                                        
-https://saidgachaev.github.io/kanban-task-manager/
-
 Crypto App: React + Ant Design.                                                  
 https://saidgachaev.github.io/react-crypto-app/
 
