@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Real Time Chat App: React, MongoDB, MERN, Socket.io, JWT.                                           
+Real Time Chat App: MERN && Socket.io && JWT.                                           
 https://chat-app-iw44.onrender.com/
 
 Crypto App: React + Ant Design.                                                  
