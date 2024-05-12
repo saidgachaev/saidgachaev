@@ -13,6 +13,9 @@ https://mern-github-app-uyj1.onrender.com
 Crypto App: React + Ant Design.                                                  
 https://saidgachaev.github.io/react-crypto-app
 
+Fullstack Todo App: Go + React + TypeScript + React Query + MongoDB + ChakraUI                                                  
+https://go-todo-app-production-735b.up.railway.app/
+
 YouTube Main Page: React + TypeScript + Tailwind.                                  
 https://saidgachaev.github.io/youtube-main-page
 
