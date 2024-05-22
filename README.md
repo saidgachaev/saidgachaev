@@ -13,7 +13,7 @@ https://mern-github-app-uyj1.onrender.com
 Crypto App: React + Ant Design.                                                  
 https://saidgachaev.github.io/react-crypto-app
 
-Frined Store: Python + React + SQLite + SQLAlchemy + Flask.                                                  
+Friend Store: Python + React + SQLite + SQLAlchemy + Flask.                                                  
 https://friend-store.onrender.com/
 
 Fullstack Todo App: Go + React + TypeScript + React Query + MongoDB + ChakraUI                                                  
